@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background: #A0A0A0;
+}
+
+.location {
+    margin: 10px auto;    
+}
+
+#location-input {
+    width: 100%;
+    text-align: center;
+    padding: 6px;
+}
+
+#check-it {
+    margin: 10px auto;
+    width: 50%;
+}
+
+.main-content {
+    margin-top: 3%;
+}
+
+#weather-stats-list {
+    margin: 0 auto;
+    text-align: left;
+}
+#weather-stats-list li{
+    padding: 10px;
+    list-style-type: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.weather-head, .weather-description {
+    word-wrap: break-word;
+}
+
+.txt-minor {
+    color: white;
+}
+
+a {
+    color: #3366FF;
+}
